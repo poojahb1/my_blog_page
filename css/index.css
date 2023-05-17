@@ -10,7 +10,7 @@ header{
     flex-direction: column;
     justify-content: center;/*center in column */
     align-items: center;
-    background-image: url(/images/banner.jpg);
+    background-image: url(/my_blog_page/images/banner.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -33,7 +33,7 @@ header>*{
     height: 100px;
     background-color: white;
     border-radius: 50%;
-    background-image: url(/images/profile_img.jpg);
+    background-image: url(/my_blog_page/images/profile_img.jpg);
     background-size: cover;
 }
 .profile-name{
@@ -74,7 +74,7 @@ header>*{
     flex-basis: 40%;
     /* width: 200px;
     height: 150px; */
-    background-image: url(/images/post_img.jpg);
+    background-image: url(/my_blog_page/images/post_img.jpg);
     background-size: cover;
     background-position: center;
 }
